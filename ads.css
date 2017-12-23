@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "lucida grande", "trebuchet ms", arial, verdana, sans-serif;
+}
+a:link, a:visited{color: #ff6305;}
+a:hover{background: #ff6305; color: #FFF;}
+#topBanner{
+	border-bottom: 1px solid #CCC;
+	float: left;
+	width: 100%;
+	height: 89px;
+	overflow: hidden;
+}
+#topBanner ul{
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid #b0c866;
+	float: left;
+	width: 100%;
+	background: #e0f3a5 url(img/bg_topbanner.gif) repeat-x top;
+	border-bottom: 1px solid #b0c866;
+}
+#topBanner ul li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+}
+li.info{
+	float: left;
+	width: 90%;
+	font-size: 11px;
+	display: block;
+}
+li.info a:link, li.info a:visited{
+	text-decoration: none;
+	color: #8fac2b;
+	padding: 3px 20px 3px 40px;
+	display: block;
+	background: url(img/icon_topbanner_lb.gif) no-repeat 10px 50%;
+}
+li.info strong{
+	color: #6c880c;
+	text-shadow: #f0fbce 2px 2px 0;
+}
+li.info a:hover strong{
+	color: #e46601;
+}
+li.close{
+	float: right;
+	width: 10%;
+}
+li.close a:link, li.close a:visited{
+	display: block;
+	padding: 3px 30px 3px 35px;
+	background: #cbe285 url(img/bg_adbanner_close.gif) repeat-y 0 0;
+	margin: 0;
+	text-decoration: none;
+	color: #506508;
+	text-shadow: #f0fbce 2px 2px 0;
+	font-weight: bold;
+	font-family: verdana, sans-serif;
+}
+li.close a:hover{color: #e46601;background: #d7ed96 url(img/bg_adbanner_close.gif) repeat-y 0 0;}
+#ads{
+	clear: left;
+	padding: 1px;
+	text-align: center;
+	font-size:  small;
+}

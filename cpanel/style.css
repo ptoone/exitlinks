@@ -1,0 +1,32 @@
+input {
+	width:180px;
+	background:url(../img/input.jpg) top no-repeat;
+	font: 100% "Lucida Grande","Lucida Sans Unicode",geneva,verdana,sans-serif;
+	color:#333;
+	border:0;
+	padding:7px 10px;
+	margin:5px;
+	color:#777;
+}
+textarea {
+	width:350px;
+	height:105px;
+	background:url(../img/textarea.jpg) top no-repeat;
+	font: 100% "Lucida Grande","Lucida Sans Unicode",geneva,verdana,sans-serif;
+	color:#333;
+	border:0;
+	padding:10px;
+	margin:5px;
+	color:#777;
+}
+
+input[type=submit] {
+	 cursor:pointer;
+	 background:#ff9900;
+	 color:#fff;
+	 font-weight:bold;
+	 width:182px;
+	 height:33px;
+	 padding:7px 10px;
+	 background:url(../img/submit.jpg) top no-repeat;
+}
