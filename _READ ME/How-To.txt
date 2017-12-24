@@ -43,7 +43,7 @@ a) in both "contactus.php" and "request_payment.php" find, "EMAIL ADDRESS" and s
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
-If you have any specific coding help please feel free in contacting us directly at; info@scriptdorks.com
+If you require any specific coding help please submit a GIT.
 
-Thank You for choosing ScriptDorks' ExitLinks!
+Thank You for choosing ExitLinks!
 
